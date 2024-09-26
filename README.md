@@ -1,1 +1,2 @@
-# native-js-timer
+### countdown timer for page on pure js
+
